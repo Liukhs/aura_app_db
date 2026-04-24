@@ -94,8 +94,8 @@
             "id" : "001",
             "nome":"Yoga",
             "orario":"18:30",
-            "partecipantimax":"12",
-            "partecipantiTot":"0",
+            "partecipantimax":12,
+            "partecipantiTot":0,
             "giorno":"lunedi",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         },
@@ -103,8 +103,8 @@
             "id":"002",
             "nome":"GAG",
             "orario":"18:30",
-            "partecipantimax":"12",
-            "partecipantiTot":"0",
+            "partecipantimax":12,
+            "partecipantiTot":0,
             "giorno":"martedi",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         },
@@ -112,8 +112,8 @@
             "id":"003",
             "nome":"Corsa funzionale",
             "orario":"18:30",
-            "partecipantimax":"12",
-            "partecipantiTot":"0",
+            "partecipantimax":12,
+            "partecipantiTot":0,
             "giorno":"Mercoledì",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         },
@@ -121,8 +121,8 @@
             "id":"004",
             "nome":"Pilates",
             "orario":"18:30",
-            "partecipantimax":"12",
-            "partecipantiTot":"0",
+            "partecipantimax":12,
+            "partecipantiTot":0,
             "giorno":"giovedi",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         },
@@ -130,8 +130,8 @@
             "id":"005",
             "nome":"Ginnastica Posturale",
             "orario":"18:30",
-            "partecipantimax":"12",
-            "partecipantiTot":"0",
+            "partecipantimax":12,
+            "partecipantiTot":0,
             "giorno":"venerdì",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         }
