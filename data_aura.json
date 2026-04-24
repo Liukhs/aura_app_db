@@ -95,6 +95,7 @@
             "nome":"Yoga",
             "orario":"18:30",
             "partecipantimax":"12",
+            "partecipantiTot":"0",
             "giorno":"lunedi",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         },
@@ -103,6 +104,7 @@
             "nome":"GAG",
             "orario":"18:30",
             "partecipantimax":"12",
+            "partecipantiTot":"0",
             "giorno":"martedi",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         },
@@ -111,6 +113,7 @@
             "nome":"Corsa funzionale",
             "orario":"18:30",
             "partecipantimax":"12",
+            "partecipantiTot":"0",
             "giorno":"Mercoledì",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         },
@@ -119,6 +122,7 @@
             "nome":"Pilates",
             "orario":"18:30",
             "partecipantimax":"12",
+            "partecipantiTot":"0",
             "giorno":"giovedi",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         },
@@ -127,6 +131,7 @@
             "nome":"Ginnastica Posturale",
             "orario":"18:30",
             "partecipantimax":"12",
+            "partecipantiTot":"0",
             "giorno":"venerdì",
             "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
         }
