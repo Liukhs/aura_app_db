@@ -1,0 +1,493 @@
+{
+    "esercizi":[
+        {
+            "id" : "0001",
+            "nome" : "Lat Pulldown",
+            "categoria" : "dorsali",
+            "istruzioni" : "Lat pulldown",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/lat_pulldown.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/pulldown.png"
+        },
+        {
+            "id" : "0002",
+            "nome" : "Panca piana(Manubri)",
+            "categoria": "pettorali",
+            "istruzioni" : "panca piana",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/lat_pulldown.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/pulldown.png"
+        },
+        {
+            "id" : "0003",
+            "nome": "Squat",
+            "categoria" : "gambe",
+            "istruzioni" : "squat",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/lat_pulldown.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/pulldown.png"
+        },
+        {
+            "id" : "0004",
+            "nome" :"Addominali",
+            "categoria": "addominali",
+            "istruzioni": "addominali",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/lat_pulldown.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/pulldown.png" 
+        },
+        {
+            "id" : "0005",
+            "nome" : "Panca inclinata(Bilanciere)",
+            "categoria" : "pettorali",
+            "istruzioni" : "panca inclinata",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/lat_pulldown.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/pulldown.png"
+        },
+        {
+            "id" : "0006",
+            "nome" : "Rematore al cavo da seduto",
+            "categoria" : "dorsali",
+            "istruzioni" : "rematore al cavo da seduto",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/rematore_cavo_seduto.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/Rematore_cavo_basso.png"
+        },
+        {
+            "id" : "0007",
+            "nome" : "Pushdown tricipiti(corda)",
+            "categoria" : "tricipiti",
+            "istruzioni" : "pushdown tricipiti",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/triceps_pushdown.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/triceps_pushdown.png"
+        },
+        {
+            "id" : "0008",
+            "nome" : "Skullcrusher", 
+            "categoria" : "tricipiti",
+            "istruzioni" : "skullcrusher",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/skullcrush.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/skullcrusher.png"
+        },
+        {
+            "id" : "0009",
+            "nome" : "Lat Pulldown singolo",
+            "categoria" : "dorsali",
+            "istruzioni": "lat pulldown singolo",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/lat_pulldown_singolo.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/one_arm_pulldown.png"
+        },
+        {
+            "id" : "0010",
+            "nome" : "Dip Tricipiti",
+            "categoria": "tricipiti",
+            "istruzioni" : "dip tricipiti",
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/dip_tricipiti.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/dip_tricipiti.png" 
+        },
+        {
+            "id":"0011",
+            "nome":"Rematore inclinato(bilanciere)",
+            "categoria":"dorsali",
+            "istruzioni":"rematore inclinato",
+            "urlVideo":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/rematore_inclinato.mp4",
+            "urlThumb":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/Rematore_bilanciere.png"
+        }
+    ],
+    "corsi":[
+        {
+            "id" : "001",
+            "nome":"Yoga",
+            "orario":"18:30",
+            "partecipantimax":"12",
+            "giorno":"lunedi",
+            "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
+        },
+        {
+            "id":"002",
+            "nome":"GAG",
+            "orario":"18:30",
+            "partecipantimax":"12",
+            "giorno":"martedi",
+            "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
+        },
+        {
+            "id":"003",
+            "nome":"Corsa funzionale",
+            "orario":"18:30",
+            "partecipantimax":"12",
+            "giorno":"Mercoledì",
+            "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
+        },
+        {
+            "id":"004",
+            "nome":"Pilates",
+            "orario":"18:30",
+            "partecipantimax":"12",
+            "giorno":"giovedi",
+            "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
+        },
+        {
+            "id":"005",
+            "nome":"Ginnastica Posturale",
+            "orario":"18:30",
+            "partecipantimax":"12",
+            "giorno":"venerdì",
+            "urlImg":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/corsaFunzionaleSfondo.jpg"
+        }
+    ],
+    "schede_predefinite":[
+        {
+            "id":"s1",
+            "titolo":"Petto e Spalle",
+            "eserciziProgrammati":[
+                        {
+                            "esercizioId":"0002",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 50.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 60.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 70.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 80.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0003",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 40.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 50.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 60.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 70.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0005",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 50.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 50.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 50.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 50.0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0004",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 0,
+                                    "riposoSecondi":60,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 0,
+                                    "riposoSecondi":60,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 0,
+                                    "riposoSecondi":60,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 0,
+                                    "riposoSecondi":60,
+                                    "completata": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id":"s2",
+                    "titolo":"Schiena e tricipiti",
+                    "eserciziProgrammati":[
+                        {
+                            "esercizioId" : "0001",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 45,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 50,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 45,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 45,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0006",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 30,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 35,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 40,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 45,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0007",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 15,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 15,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 15,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 15,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0008",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 18,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 18,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 18,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 18,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0009",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 18,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 18,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 18,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 18,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0010",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 0,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0011",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 40,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 40,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 40,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 40,
+                                    "riposoSecondi":120,
+                                    "completata": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+    ],
+    "utenti":[
+        {
+            "id" : "000001",
+            "nome": "Luca",
+            "email": "soldiluca.99@gmail.com",
+            "password": "Cipollino",
+            "fotuUrl": "https://i.pravatar.cc/300",
+            "pesoAttuale":70,
+            "altezza":180,
+            "allenamentiFatti":0,
+            "corsiPrenotatiIds":["001"],
+            "schedeIds":["s1", "s2"]
+        },
+        {
+            "id": "000001",
+            "nome":"Daniele",
+            "email":"daniele@gmail.com",
+            "password":"Cipollino",
+            "fotuUrl": "https://i.pravatar.cc/300",
+            "pesoAttuale":70,
+            "altezza":180,
+            "allenamentiFatti":0,
+            "corsiPrenotatiIds":["001"],
+            "schedeIds":["s1", "s2"]
+        }
+    ]
+}
