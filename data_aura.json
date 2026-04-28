@@ -14,7 +14,7 @@
             "categoria": "pettorali",
             "istruzioni" : "panca piana",
             "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/lat_pulldown.mp4",
-            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/pulldown.png"
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/main/exerciseGifs/Panca_piana_manubrio.mp4"
         },
         {
             "id" : "0003",
@@ -37,8 +37,8 @@
             "nome" : "Panca inclinata(Bilanciere)",
             "categoria" : "pettorali",
             "istruzioni" : "panca inclinata",
-            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/lat_pulldown.mp4",
-            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/pulldown.png"
+            "urlVideo" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/main/exerciseGifs/Panca_inclinata_bilanciere.mp4",
+            "urlThumb" : "https://raw.githubusercontent.com/Liukhs/aura_app_db/main/panca_inclinata.jpg"
         },
         {
             "id" : "0006",
@@ -87,6 +87,30 @@
             "istruzioni":"rematore inclinato",
             "urlVideo":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/exerciseGifs/rematore_inclinato.mp4",
             "urlThumb":"https://raw.githubusercontent.com/Liukhs/aura_app_db/a35248716dfb0e9b6f6435c7f1ad8e186601ec2a/Rematore_bilanciere.png"
+        },
+        {
+            "id":"0012",
+            "nome" : "Croci ai cavi",
+            "categoria": "pettorali",
+            "istruzioni":"croci ai cavi",
+            "urlVideo":"https://raw.githubusercontent.com/Liukhs/aura_app_db/main/exerciseGifs/Croci_ai_cavi.mp4",
+            "urlThumb":"https://raw.githubusercontent.com/Liukhs/aura_app_db/main/croci_ai_cavi.jpg"
+        },
+        {
+            "id": "0013",
+            "nome":"Curl Bicipiti(Bilanciere)",
+            "categoria":"bicipiti",
+            "istruzioni":"Curl bicipiti",
+            "urlThumb":"https://raw.githubusercontent.com/Liukhs/aura_app_db/main/Curlo_bicipiti_bilanciere.jpg",
+            "urlVideo":"https://raw.githubusercontent.com/Liukhs/aura_app_db/main/exerciseGifs/Curl_bicipiti_bilanciere.mp4"
+        },
+        {
+            "id":"0014",
+            "nome":"Bicipiti martello incrociato",
+            "categoria":"bicipiti",
+            "istruzioni":"Bicipiti martello incrociato",
+            "urlThumb":"https://raw.githubusercontent.com/Liukhs/aura_app_db/main/bicipiti_martello.jpg",
+            "urlVideo":"https://raw.githubusercontent.com/Liukhs/aura_app_db/main/exerciseGifs/Bicipiti_martello.mp4"
         }
     ],
     "corsi":[
@@ -139,7 +163,7 @@
     "schede_predefinite":[
         {
             "id":"s1",
-            "titolo":"Petto e Spalle",
+            "titolo":"Petto e Bicipiti",
             "eserciziProgrammati":[
                         {
                             "esercizioId":"0002",
@@ -171,7 +195,7 @@
                             ]
                         },
                         {
-                            "esercizioId":"0003",
+                            "esercizioId":"0005",
                             "serie":[
                                 {
                                     "ripetizioni": 10,
@@ -200,7 +224,7 @@
                             ]
                         },
                         {
-                            "esercizioId":"0005",
+                            "esercizioId":"0012",
                             "serie":[
                                 {
                                     "ripetizioni": 10,
@@ -229,7 +253,7 @@
                             ]
                         },
                         {
-                            "esercizioId":"0004",
+                            "esercizioId":"0013",
                             "serie":[
                                 {
                                     "ripetizioni": 10,
@@ -252,6 +276,35 @@
                                 {
                                     "ripetizioni": 10,
                                     "peso": 0,
+                                    "riposoSecondi":60,
+                                    "completata": false
+                                }
+                            ]
+                        },
+                        {
+                            "esercizioId":"0014",
+                            "serie":[
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 20,
+                                    "riposoSecondi":60,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 20,
+                                    "riposoSecondi":60,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 20,
+                                    "riposoSecondi":60,
+                                    "completata": false
+                                },
+                                {
+                                    "ripetizioni": 10,
+                                    "peso": 20,
                                     "riposoSecondi":60,
                                     "completata": false
                                 }
